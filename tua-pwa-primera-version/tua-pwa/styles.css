@@ -378,13 +378,13 @@ button:focus-visible, .stop-option:focus-visible { outline: 3px solid #8BA9CC; o
 }
 
 .intro .eyebrow {
-  margin-bottom: 12px;
+  margin-bottom: 22px;
   letter-spacing: 0.13em;
 }
 
 .intro-title {
   max-width: 850px;
-  margin: 0 auto 14px;
+  margin: 0 auto 22px;
   font-size: clamp(2.1rem, 4.5vw, 3.25rem);
   line-height: 1.12;
   letter-spacing: -0.035em;
