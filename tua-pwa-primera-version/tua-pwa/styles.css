@@ -365,3 +365,51 @@ button:focus-visible, .stop-option:focus-visible { outline: 3px solid #8BA9CC; o
   border-radius: 5px;
   margin-left: 5px;
 }
+
+/* =========================================================
+   CABECERA INTRODUCTORIA
+========================================================= */
+
+.intro {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto 30px;
+  text-align: center;
+}
+
+.intro .eyebrow {
+  margin-bottom: 12px;
+  letter-spacing: 0.13em;
+}
+
+.intro-title {
+  max-width: 850px;
+  margin: 0 auto 14px;
+  font-size: clamp(2.1rem, 4.5vw, 3.25rem);
+  line-height: 1.12;
+  letter-spacing: -0.035em;
+  text-wrap: balance;
+}
+
+.intro .lead {
+  max-width: 580px;
+  margin: 0 auto;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+/* Adaptación a móviles */
+@media (max-width: 600px) {
+  .intro {
+    margin-bottom: 24px;
+  }
+
+  .intro-title {
+    font-size: clamp(2rem, 8vw, 2.5rem);
+    line-height: 1.15;
+  }
+
+  .intro .lead {
+    font-size: 0.95rem;
+  }
+}
