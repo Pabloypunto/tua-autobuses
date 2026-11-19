@@ -1,4 +1,4 @@
 
 [build]
-  publish = "."
+  publish = "tua-pwa-primera-version/tua-pwa"
   functions = "netlify/functions"
