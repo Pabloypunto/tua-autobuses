@@ -705,3 +705,26 @@ body {
 .site-footer {
   padding-bottom: calc(28px + env(safe-area-inset-bottom));
 }
+
+/* Integración visual con la navegación inferior de Android */
+:root {
+  color-scheme: light;
+}
+
+html {
+  background-color: #173D70;
+}
+
+body {
+  background-color: #F5F7FA;
+}
+
+.site-footer {
+  background-color: #173D70;
+}
+
+/* Evitar que el rebote del scroll muestre otro fondo */
+html,
+body {
+  overscroll-behavior: none;
+}
