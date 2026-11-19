@@ -1,0 +1,1497 @@
+{
+  "updated": "2026-11-18",
+  "notice": "Catálogo inicial de desarrollo. Incluye recorridos completos de A, B y C y paradas verificadas de otros recorridos; las líneas restantes están pendientes de completar.",
+  "lines": [
+    {
+      "code": "A",
+      "name": "Centro Asturiano – Llamaquique",
+      "directions": [
+        {
+          "code": "A1",
+          "label": "Centro Asturiano → Llamaquique",
+          "complete": true,
+          "stops": [
+            [
+              1033,
+              "Centro Asturiano"
+            ],
+            [
+              1217,
+              "Ules"
+            ],
+            [
+              1027,
+              "Ctra. de Ules"
+            ],
+            [
+              1273,
+              "Prerrománico"
+            ],
+            [
+              1123,
+              "Las Delicias"
+            ],
+            [
+              1132,
+              "Avda. Los Monumentos"
+            ],
+            [
+              1211,
+              "Los Solises"
+            ],
+            [
+              1183,
+              "Ramiro I"
+            ],
+            [
+              1214,
+              "Samuel Sánchez"
+            ],
+            [
+              1096,
+              "Independencia"
+            ],
+            [
+              1218,
+              "Uría Centro"
+            ],
+            [
+              4143,
+              "Marques Sta. Cruz"
+            ],
+            [
+              1213,
+              "Sta. Susana-Instituto"
+            ],
+            [
+              1204,
+              "Sta. Susana"
+            ],
+            [
+              1011,
+              "Arz. Guisasola Campillín"
+            ],
+            [
+              1010,
+              "Arz. Guisasola"
+            ],
+            [
+              1200,
+              "San Lázaro-Gil Blas"
+            ],
+            [
+              1106,
+              "Bolgachina 5"
+            ],
+            [
+              1105,
+              "Bolgachina 46"
+            ],
+            [
+              1104,
+              "La Merced"
+            ],
+            [
+              1107,
+              "El Caserón"
+            ],
+            [
+              1135,
+              "Los Prietos"
+            ],
+            [
+              1058,
+              "Cruce Toral"
+            ],
+            [
+              1023,
+              "Cabornio"
+            ],
+            [
+              1122,
+              "La Rodada"
+            ],
+            [
+              1047,
+              "Cruce Llamaoscura"
+            ],
+            [
+              1118,
+              "La Manjoya"
+            ],
+            [
+              1293,
+              "F. L. C."
+            ],
+            [
+              1325,
+              "Cruce Latores"
+            ],
+            [
+              1291,
+              "Centro Médico"
+            ],
+            [
+              1290,
+              "Llamaquique"
+            ]
+          ]
+        },
+        {
+          "code": "A2",
+          "label": "Llamaquique → Centro Asturiano",
+          "complete": true,
+          "stops": [
+            [
+              1290,
+              "Llamaquique"
+            ],
+            [
+              4024,
+              "Calvo Sotelo-Colegio"
+            ],
+            [
+              1291,
+              "Centro Médico"
+            ],
+            [
+              4325,
+              "Cruce Latores"
+            ],
+            [
+              4292,
+              "F. L. C."
+            ],
+            [
+              1269,
+              "La Manjoya"
+            ],
+            [
+              4047,
+              "Cruce Llamaoscura"
+            ],
+            [
+              4122,
+              "La Rodada"
+            ],
+            [
+              4023,
+              "Cabornio"
+            ],
+            [
+              4048,
+              "Cruce Toral"
+            ],
+            [
+              4135,
+              "Los Prietos"
+            ],
+            [
+              4107,
+              "El Caserón"
+            ],
+            [
+              4104,
+              "La Merced"
+            ],
+            [
+              4105,
+              "Bolgachina 46"
+            ],
+            [
+              4106,
+              "Bolgachina 5"
+            ],
+            [
+              4200,
+              "San Lázaro"
+            ],
+            [
+              1158,
+              "Padre Suarez I"
+            ],
+            [
+              1159,
+              "Padre Suarez II"
+            ],
+            [
+              1142,
+              "Gastañaga"
+            ],
+            [
+              1144,
+              "Martinez Marina"
+            ],
+            [
+              1143,
+              "Marqués Sta. Cruz"
+            ],
+            [
+              1221,
+              "Uria Sur"
+            ],
+            [
+              1234,
+              "Uría Centro"
+            ],
+            [
+              4220,
+              "Uría Norte"
+            ],
+            [
+              4214,
+              "Samuel Sánchez"
+            ],
+            [
+              4183,
+              "Ramiro I"
+            ],
+            [
+              4211,
+              "Los Solises"
+            ],
+            [
+              4132,
+              "Avda. Los Monumentos"
+            ],
+            [
+              4123,
+              "Las Delicias"
+            ],
+            [
+              4273,
+              "Prerrománico"
+            ],
+            [
+              4027,
+              "Ctra. Ules"
+            ],
+            [
+              4217,
+              "Ules"
+            ],
+            [
+              1239,
+              "La Ribera"
+            ],
+            [
+              1033,
+              "Centro Asturiano"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "code": "B",
+      "name": "Fitoria – Olivares",
+      "directions": [
+        {
+          "code": "B1",
+          "label": "Fitoria → Olivares",
+          "complete": true,
+          "stops": [
+            [
+              1077,
+              "Fitoria"
+            ],
+            [
+              4126,
+              "Lavadero"
+            ],
+            [
+              4179,
+              "Prado de la fiesta"
+            ],
+            [
+              4232,
+              "Villamegil"
+            ],
+            [
+              4073,
+              "Orfanato Minero"
+            ],
+            [
+              4216,
+              "Torres de Pando"
+            ],
+            [
+              1094,
+              "Grupo Jose Antonio"
+            ],
+            [
+              1014,
+              "Avda. Pumarín"
+            ],
+            [
+              1079,
+              "Foncalada I"
+            ],
+            [
+              4080,
+              "Foncalada II"
+            ],
+            [
+              4143,
+              "Marques Sta. Cruz"
+            ],
+            [
+              4025,
+              "Calvo Sotelo-Instituto"
+            ],
+            [
+              4024,
+              "Calvo Sotelo-Colegio"
+            ],
+            [
+              4170,
+              "Plaza La Paz"
+            ],
+            [
+              1078,
+              "Florez Estrada"
+            ],
+            [
+              4171,
+              "Plaza de Toros"
+            ],
+            [
+              4085,
+              "Fuertes Acevedo"
+            ],
+            [
+              1012,
+              "Av. La Coruña"
+            ],
+            [
+              1056,
+              "Cuesta Olivares"
+            ],
+            [
+              1348,
+              "Olivares"
+            ]
+          ]
+        },
+        {
+          "code": "B2",
+          "label": "Olivares → Fitoria",
+          "complete": true,
+          "stops": [
+            [
+              1348,
+              "Olivares"
+            ],
+            [
+              4056,
+              "Cuesta Olivares"
+            ],
+            [
+              4012,
+              "Av. La Coruña"
+            ],
+            [
+              1085,
+              "Fuertes Acevedo"
+            ],
+            [
+              1171,
+              "Plaza de Toros"
+            ],
+            [
+              4184,
+              "Celestino Villamil"
+            ],
+            [
+              1016,
+              "Avda. del Cristo"
+            ],
+            [
+              1170,
+              "Plaza La Paz"
+            ],
+            [
+              1024,
+              "Calvo Sotelo-Colegio"
+            ],
+            [
+              1025,
+              "Calvo Sotelo-Instituto"
+            ],
+            [
+              1143,
+              "Marqués Sta. Cruz"
+            ],
+            [
+              1234,
+              "Uría Centro"
+            ],
+            [
+              1219,
+              "Uría La Llave"
+            ],
+            [
+              1082,
+              "Fray Ceferino"
+            ],
+            [
+              1083,
+              "Fray Ceferino Estación Autobuses"
+            ],
+            [
+              1071,
+              "Evaristo Valle"
+            ],
+            [
+              1236,
+              "Avda. Pando"
+            ],
+            [
+              1216,
+              "Torres de Pando"
+            ],
+            [
+              1073,
+              "Orfanato Minero"
+            ],
+            [
+              1232,
+              "Villamegil"
+            ],
+            [
+              1179,
+              "Prado de la fiesta"
+            ],
+            [
+              1126,
+              "Lavadero"
+            ],
+            [
+              1077,
+              "Fitoria"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "code": "C",
+      "name": "Facultades – Lugones",
+      "directions": [
+        {
+          "code": "C1",
+          "label": "Facultades → Lugones",
+          "complete": true,
+          "stops": [
+            [
+              1266,
+              "Facultades"
+            ],
+            [
+              1017,
+              "Avda. del Cristo - J. Clavería"
+            ],
+            [
+              4102,
+              "Julián Clavería II"
+            ],
+            [
+              1171,
+              "Plaza de Toros"
+            ],
+            [
+              4184,
+              "Celestino Villamil"
+            ],
+            [
+              1016,
+              "Avda. del Cristo"
+            ],
+            [
+              1170,
+              "Plaza La Paz"
+            ],
+            [
+              1024,
+              "Calvo Sotelo-Colegio"
+            ],
+            [
+              1025,
+              "Calvo Sotelo-Instituto"
+            ],
+            [
+              1143,
+              "Marqués Sta. Cruz"
+            ],
+            [
+              1234,
+              "Uría Centro"
+            ],
+            [
+              1219,
+              "Uría La Llave"
+            ],
+            [
+              1082,
+              "Fray Ceferino"
+            ],
+            [
+              1083,
+              "Fray Ceferino Estación Autobuses"
+            ],
+            [
+              1260,
+              "Miguel Casas Marín"
+            ],
+            [
+              1038,
+              "Melquiades Cabal"
+            ],
+            [
+              1206,
+              "Santullano"
+            ],
+            [
+              1019,
+              "Avda. del Mar"
+            ],
+            [
+              1067,
+              "El Villar"
+            ],
+            [
+              5018,
+              "HUCA1"
+            ],
+            [
+              1177,
+              "Pontón de Vaqueros"
+            ],
+            [
+              1114,
+              "La Estrecha"
+            ],
+            [
+              1055,
+              "Cuatro Caños"
+            ],
+            [
+              1042,
+              "Corredoria Baja"
+            ],
+            [
+              1182,
+              "Puente Nora"
+            ],
+            [
+              1133,
+              "Los Peñones"
+            ],
+            [
+              1049,
+              "Cruce Viejo"
+            ],
+            [
+              1013,
+              "Avda. de Oviedo"
+            ],
+            [
+              1048,
+              "Didier"
+            ],
+            [
+              1138,
+              "Lugones"
+            ]
+          ]
+        },
+        {
+          "code": "C2",
+          "label": "Lugones → Facultades",
+          "complete": true,
+          "stops": [
+            [
+              1138,
+              "Lugones"
+            ],
+            [
+              4049,
+              "Cruce Viejo"
+            ],
+            [
+              4133,
+              "Los Peñones"
+            ],
+            [
+              4182,
+              "Puente Nora"
+            ],
+            [
+              4042,
+              "Corredoria Baja"
+            ],
+            [
+              4055,
+              "Cuatro Caños"
+            ],
+            [
+              4114,
+              "La Estrecha"
+            ],
+            [
+              5006,
+              "Pontón de Vaqueros 1"
+            ],
+            [
+              5018,
+              "HUCA1"
+            ],
+            [
+              4177,
+              "Pontón de Vaqueros"
+            ],
+            [
+              4067,
+              "El Villar"
+            ],
+            [
+              1022,
+              "Bermudez de Castro"
+            ],
+            [
+              4206,
+              "Santullano"
+            ],
+            [
+              1259,
+              "Fernando Vela"
+            ],
+            [
+              4260,
+              "Buenaventura Paredes"
+            ],
+            [
+              1261,
+              "Estación de Autobuses"
+            ],
+            [
+              1220,
+              "Uria Norte"
+            ],
+            [
+              1218,
+              "Uría Centro"
+            ],
+            [
+              4143,
+              "Marques Sta. Cruz"
+            ],
+            [
+              4025,
+              "Calvo Sotelo-Instituto"
+            ],
+            [
+              4024,
+              "Calvo Sotelo-Colegio"
+            ],
+            [
+              4170,
+              "Plaza La Paz"
+            ],
+            [
+              1078,
+              "Florez Estrada"
+            ],
+            [
+              4532,
+              "Teodoro López Cuesta"
+            ],
+            [
+              4018,
+              "Avda. del Cristo 54"
+            ],
+            [
+              4101,
+              "Julian Clavería I"
+            ],
+            [
+              4102,
+              "Julián Clavería II"
+            ],
+            [
+              1266,
+              "Facultades"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "code": "D",
+      "name": "Facultades – Parque Principado",
+      "directions": [
+        {
+          "code": "D1",
+          "label": "Facultades → Parque Principado",
+          "complete": false,
+          "stops": [
+            [
+              1266,
+              "Facultades"
+            ],
+            [
+              1017,
+              "Avda. del Cristo - J. Clavería"
+            ],
+            [
+              4102,
+              "Julián Clavería II"
+            ],
+            [
+              1171,
+              "Plaza de Toros"
+            ],
+            [
+              1207,
+              "Silla del Rey"
+            ],
+            [
+              1169,
+              "Plaza América"
+            ],
+            [
+              1035,
+              "Cervantes"
+            ],
+            [
+              1096,
+              "Independencia"
+            ],
+            [
+              1082,
+              "Fray Ceferino"
+            ]
+          ]
+        },
+        {
+          "code": "D2",
+          "label": "Parque Principado → Facultades",
+          "complete": false,
+          "stops": []
+        }
+      ]
+    },
+    {
+      "code": "E",
+      "name": "Las Campas – La Monxina",
+      "directions": [
+        {
+          "code": "E1",
+          "label": "Las Campas → La Monxina",
+          "complete": false,
+          "stops": [
+            [
+              4258,
+              "Las Campas I"
+            ],
+            [
+              1358,
+              "Las Campas III"
+            ],
+            [
+              4518,
+              "Paseo La Florida"
+            ],
+            [
+              4500,
+              "La Florida I"
+            ],
+            [
+              1271,
+              "La Florida II"
+            ],
+            [
+              1256,
+              "Plaza G. Díaz Merchán"
+            ],
+            [
+              1257,
+              "Manuel del Fresno"
+            ],
+            [
+              1072,
+              "Fco. Cambó Puente Nuevo"
+            ],
+            [
+              1081,
+              "Fco. Cambó"
+            ],
+            [
+              1183,
+              "Ramiro I"
+            ],
+            [
+              1214,
+              "Samuel Sánchez"
+            ]
+          ]
+        },
+        {
+          "code": "E2",
+          "label": "La Monxina → Las Campas",
+          "complete": false,
+          "stops": []
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "name": "HUCA – Naranco – Campillín – HUCA",
+      "directions": [
+        {
+          "code": "F1",
+          "label": "HUCA → Naranco → Campillín → HUCA",
+          "complete": false,
+          "stops": [
+            [
+              5019,
+              "HUCA2"
+            ],
+            [
+              4519,
+              "Reyes Católicos"
+            ],
+            [
+              4520,
+              "Jesús Saenz de Miera"
+            ],
+            [
+              1261,
+              "Estación de Autobuses"
+            ],
+            [
+              4154,
+              "Coronel Bobes 10"
+            ],
+            [
+              4041,
+              "Coronel Bobes"
+            ],
+            [
+              4146,
+              "Menéndez y Pelayo"
+            ],
+            [
+              4128,
+              "Lorenzo Abruñedo"
+            ],
+            [
+              1148,
+              "Monte Auseva"
+            ],
+            [
+              1339,
+              "Clinica Asturias"
+            ],
+            [
+              1130,
+              "Cuatro Ases"
+            ],
+            [
+              4081,
+              "Fco. Cambó"
+            ],
+            [
+              1224,
+              "Vázquez de Mella"
+            ],
+            [
+              1139,
+              "Mantova"
+            ]
+          ]
+        },
+        {
+          "code": "F2",
+          "label": "HUCA → Campillín → Naranco → HUCA",
+          "complete": false,
+          "stops": []
+        }
+      ]
+    },
+    {
+      "code": "G",
+      "name": "Puerto – Montecerrao",
+      "directions": [
+        {
+          "code": "G1",
+          "label": "Puerto → Montecerrao",
+          "complete": false,
+          "stops": [
+            [
+              1284,
+              "Puerto (Cabecera)"
+            ],
+            [
+              1285,
+              "Cruce de Fuso"
+            ],
+            [
+              1283,
+              "Puerto I"
+            ],
+            [
+              1287,
+              "Puerto II"
+            ],
+            [
+              1289,
+              "Cruce Siones"
+            ],
+            [
+              1277,
+              "Caces"
+            ],
+            [
+              1278,
+              "Centro salud"
+            ],
+            [
+              1279,
+              "Las Caldas"
+            ],
+            [
+              1280,
+              "Campo de Golf"
+            ],
+            [
+              1281,
+              "Piñera"
+            ],
+            [
+              1288,
+              "Cruce Sograndio"
+            ],
+            [
+              1286,
+              "La Corrapiedra"
+            ],
+            [
+              1046,
+              "Cruce Las Caldas - Sta. Marina"
+            ],
+            [
+              1111,
+              "La Casuca"
+            ],
+            [
+              1168,
+              "Pin de la Quinta"
+            ],
+            [
+              1134,
+              "Los Pinos"
+            ],
+            [
+              1173,
+              "Plaza Occidente"
+            ]
+          ]
+        },
+        {
+          "code": "G2",
+          "label": "Montecerrao → Puerto",
+          "complete": false,
+          "stops": []
+        }
+      ]
+    },
+    {
+      "code": "H",
+      "name": "Serrano – Parque Principado",
+      "directions": [
+        {
+          "code": "H1",
+          "label": "Serrano → Parque Principado",
+          "complete": false,
+          "stops": [
+            [
+              1098,
+              "Serrano"
+            ],
+            [
+              1085,
+              "Fuertes Acevedo"
+            ],
+            [
+              1171,
+              "Plaza de Toros"
+            ],
+            [
+              1207,
+              "Silla del Rey"
+            ],
+            [
+              1169,
+              "Plaza América"
+            ],
+            [
+              1035,
+              "Cervantes"
+            ],
+            [
+              1096,
+              "Independencia"
+            ],
+            [
+              1218,
+              "Uría Centro"
+            ],
+            [
+              1009,
+              "Argüelles"
+            ],
+            [
+              1099,
+              "Jovellanos"
+            ],
+            [
+              1233,
+              "Tenderina Alta"
+            ]
+          ]
+        },
+        {
+          "code": "H2",
+          "label": "Parque Principado → Serrano",
+          "complete": false,
+          "stops": []
+        }
+      ]
+    },
+    {
+      "code": "J",
+      "name": "Otero – San Claudio",
+      "directions": [
+        {
+          "code": "J1",
+          "label": "Otero → San Claudio",
+          "complete": false,
+          "stops": [
+            [
+              1100,
+              "Julian Cañedo"
+            ],
+            [
+              1157,
+              "Otero"
+            ],
+            [
+              1359,
+              "Purita de la Riva"
+            ],
+            [
+              1226,
+              "Velasquita Giraldez I"
+            ],
+            [
+              1227,
+              "Velasquita Giraldez II"
+            ],
+            [
+              4200,
+              "San Lázaro"
+            ],
+            [
+              1158,
+              "Padre Suarez I"
+            ],
+            [
+              1159,
+              "Padre Suarez II"
+            ],
+            [
+              1142,
+              "Gastañaga"
+            ],
+            [
+              1144,
+              "Martinez Marina"
+            ],
+            [
+              1143,
+              "Marqués Sta. Cruz"
+            ],
+            [
+              1234,
+              "Uría Centro"
+            ]
+          ]
+        },
+        {
+          "code": "J2",
+          "label": "San Claudio → Otero",
+          "complete": false,
+          "stops": []
+        }
+      ]
+    },
+    {
+      "code": "K",
+      "name": "Latores – Plaza América",
+      "directions": [
+        {
+          "code": "K1",
+          "label": "Latores → Plaza América",
+          "complete": false,
+          "stops": []
+        },
+        {
+          "code": "K2",
+          "label": "Plaza América → Latores",
+          "complete": false,
+          "stops": []
+        }
+      ]
+    },
+    {
+      "code": "L",
+      "name": "San Andrés – Tudela Veguín",
+      "directions": [
+        {
+          "code": "L1",
+          "label": "San Andrés → Tudela Veguín",
+          "complete": false,
+          "stops": [
+            [
+              1189,
+              "San Andrés"
+            ],
+            [
+              1205,
+              "Santiago"
+            ],
+            [
+              1225,
+              "Vega"
+            ],
+            [
+              1202,
+              "Sta. María"
+            ],
+            [
+              1031,
+              "Cataluña"
+            ],
+            [
+              1115,
+              "La Fábrica"
+            ],
+            [
+              1267,
+              "La Iglesia"
+            ],
+            [
+              1097,
+              "Instituto"
+            ],
+            [
+              1147,
+              "Molina"
+            ],
+            [
+              1212,
+              "Soto de Arriba"
+            ],
+            [
+              1021,
+              "Los Gallegos"
+            ],
+            [
+              1090,
+              "Godos"
+            ],
+            [
+              1091,
+              "Godos de Arriba"
+            ],
+            [
+              1210,
+              "Sograndio de Abajo II"
+            ],
+            [
+              1209,
+              "Sograndio de Abajo I"
+            ],
+            [
+              1208,
+              "Sograndio"
+            ],
+            [
+              1110,
+              "Carretona"
+            ],
+            [
+              1026,
+              "Cantu Colorao"
+            ]
+          ]
+        },
+        {
+          "code": "L2",
+          "label": "Tudela Veguín → San Andrés",
+          "complete": false,
+          "stops": []
+        }
+      ]
+    },
+    {
+      "code": "M",
+      "name": "Primo Rivera – Faro",
+      "directions": [
+        {
+          "code": "M1",
+          "label": "Primo Rivera → Faro",
+          "complete": false,
+          "stops": []
+        },
+        {
+          "code": "M2",
+          "label": "Faro → Primo Rivera",
+          "complete": false,
+          "stops": []
+        }
+      ]
+    },
+    {
+      "code": "O",
+      "name": "Lubrió – Plaza América",
+      "directions": [
+        {
+          "code": "O1",
+          "label": "Lubrió → Plaza América",
+          "complete": false,
+          "stops": [
+            [
+              1317,
+              "Lubrió"
+            ],
+            [
+              1316,
+              "Loriana"
+            ],
+            [
+              4296,
+              "Cruce Loriana"
+            ],
+            [
+              4506,
+              "Fabarin"
+            ],
+            [
+              1294,
+              "La Bolguina"
+            ],
+            [
+              1295,
+              "Malpica"
+            ],
+            [
+              1296,
+              "Cruce Loriana"
+            ],
+            [
+              1297,
+              "Ponteo"
+            ],
+            [
+              1298,
+              "El Torollo"
+            ],
+            [
+              1299,
+              "San Claudio-San Roque"
+            ],
+            [
+              4112,
+              "La Cruz I"
+            ],
+            [
+              4113,
+              "La Cruz II"
+            ],
+            [
+              1300,
+              "Cruce Ponteo"
+            ],
+            [
+              1301,
+              "Villamar"
+            ],
+            [
+              4297,
+              "Ponteo"
+            ],
+            [
+              1304,
+              "Lampajua"
+            ],
+            [
+              1305,
+              "Lampaya"
+            ],
+            [
+              1306,
+              "El Llano"
+            ],
+            [
+              1307,
+              "Villamorsen"
+            ],
+            [
+              1302,
+              "Las Campas"
+            ]
+          ]
+        },
+        {
+          "code": "O2",
+          "label": "Plaza América → Lubrió",
+          "complete": false,
+          "stops": []
+        }
+      ]
+    },
+    {
+      "code": "U",
+      "name": "Tudela Veguín – San Esteban",
+      "directions": [
+        {
+          "code": "U1",
+          "label": "Tudela Veguín → San Esteban",
+          "complete": false,
+          "stops": []
+        },
+        {
+          "code": "U2",
+          "label": "San Esteban → Tudela Veguín",
+          "complete": false,
+          "stops": []
+        }
+      ]
+    },
+    {
+      "code": "V",
+      "name": "Villapérez – HUCA",
+      "directions": [
+        {
+          "code": "V1",
+          "label": "Villapérez → HUCA",
+          "complete": false,
+          "stops": []
+        },
+        {
+          "code": "V2",
+          "label": "HUCA → Villapérez",
+          "complete": false,
+          "stops": []
+        }
+      ]
+    },
+    {
+      "code": "BÚHO",
+      "name": "Servicio nocturno",
+      "directions": [
+        {
+          "code": "BÚHO1",
+          "label": "Cuatro Caños → San Claudio",
+          "complete": false,
+          "stops": [
+            [
+              1055,
+              "Cuatro Caños"
+            ],
+            [
+              1311,
+              "Jaime Truyols"
+            ],
+            [
+              1310,
+              "Llaviada"
+            ],
+            [
+              1187,
+              "Roces"
+            ],
+            [
+              1116,
+              "La Iglesia - Colloto"
+            ],
+            [
+              1180,
+              "Puente"
+            ],
+            [
+              4180,
+              "Puente"
+            ],
+            [
+              4116,
+              "La Iglesia - Colloto"
+            ],
+            [
+              4187,
+              "Roces"
+            ],
+            [
+              4070,
+              "Espiritu Santo"
+            ],
+            [
+              4507,
+              "Cruce Las Matas"
+            ],
+            [
+              4103,
+              "La Barcena"
+            ],
+            [
+              4034,
+              "Cerdeño"
+            ],
+            [
+              4172,
+              "Plaza Lago Enol"
+            ],
+            [
+              4186,
+              "Río Sella"
+            ],
+            [
+              4185,
+              "Río Caudal"
+            ],
+            [
+              4006,
+              "Ángel Cañedo"
+            ],
+            [
+              1001,
+              "Aureliano San Román"
+            ],
+            [
+              1002,
+              "A. S. Román-Palladium"
+            ]
+          ]
+        },
+        {
+          "code": "BÚHO2",
+          "label": "San Claudio → Cuatro Caños",
+          "complete": false,
+          "stops": []
+        }
+      ]
+    }
+  ]
+}
