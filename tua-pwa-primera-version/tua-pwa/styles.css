@@ -335,3 +335,33 @@ button:focus-visible, .stop-option:focus-visible { outline: 3px solid #8BA9CC; o
     animation-duration: .01ms !important;
   }
 }
+
+/* Destacar la línea que el usuario está consultando */
+.bus-card-selected {
+  border: 2px solid #315F96;
+  background: #EDF3FA;
+  box-shadow: 0 4px 15px #173D7018;
+  position: relative;
+  transition: background .2s ease, box-shadow .2s ease;
+}
+
+.bus-card-selected .bus-route {
+  color: #173D70;
+}
+
+.bus-card-selected .bus-time strong {
+  color: #173D70;
+}
+
+.bus-selected-label {
+  display: inline-block;
+  vertical-align: middle;
+  background: #173D70;
+  color: #FFFFFF;
+  font-size: 8px;
+  font-weight: 800;
+  letter-spacing: .06em;
+  padding: 4px 7px;
+  border-radius: 5px;
+  margin-left: 5px;
+}
