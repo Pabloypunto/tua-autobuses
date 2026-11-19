@@ -1,4 +1,4 @@
-const API_BASE = "https://www.tua.es/rest/estimaciones/";
+const API_BASE = "/.netlify/functions/estimaciones?id=";
 const REFRESH_MS = 20000;
 let catalog, selectedStop = null, refreshTimer = null, deferredPrompt = null;
 
