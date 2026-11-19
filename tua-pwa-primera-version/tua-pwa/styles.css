@@ -691,3 +691,17 @@ main {
     min-height: 100svh;
   }
 }
+
+
+/* Fondo exterior para evitar franjas de otro color en móviles */
+html {
+  background-color: #173D70;
+}
+
+body {
+  background-color: #F5F7FA;
+}
+
+.site-footer {
+  padding-bottom: calc(28px + env(safe-area-inset-bottom));
+}
