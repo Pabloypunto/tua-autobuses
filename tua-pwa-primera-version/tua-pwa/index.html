@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="es">
 <head>
@@ -14,34 +15,58 @@
 <body>
   <header class="topbar">
     <div class="brand-mark">T</div>
-    <div><div class="brand">TUA <span>OVIEDO</span></div><div class="brand-sub">Próximos autobuses</div></div>
+    <div>
+      <div class="brand">TUA <span>OVIEDO</span></div>
+      <div class="brand-sub">Próximos autobuses</div>
+    </div>
     <button id="installBtn" class="install-btn" hidden>Instalar</button>
   </header>
+
   <main>
     <section class="intro">
       <p class="eyebrow">TRANSPORTE URBANO DE OVIEDO</p>
-      <h1>¿Cuánto falta<br>para el autobús?</h1>
+      <h1 class="intro-title">¿Cuánto falta para el autobús?</h1>
       <p class="lead">Elige tu línea y parada para consultar las próximas llegadas.</p>
     </section>
 
     <section class="selector card">
       <label for="lineSelect">1. Línea</label>
-      <select id="lineSelect"><option value="">Selecciona una línea</option></select>
+      <select id="lineSelect">
+        <option value="">Selecciona una línea</option>
+      </select>
+
       <label for="directionSelect">2. Sentido</label>
-      <select id="directionSelect" disabled><option value="">Primero elige una línea</option></select>
+      <select id="directionSelect" disabled>
+        <option value="">Primero elige una línea</option>
+      </select>
+
       <label for="stopSearch">3. Parada</label>
       <input id="stopSearch" type="search" placeholder="Busca por nombre o número…" disabled autocomplete="off">
-      <div id="stopList" class="stop-list"><p class="hint">Selecciona una línea y un sentido para ver sus paradas.</p></div>
+
+      <div id="stopList" class="stop-list">
+        <p class="hint">Selecciona una línea y un sentido para ver sus paradas.</p>
+      </div>
       <div id="coverageNote" class="coverage-note" hidden></div>
     </section>
 
     <section id="results" class="results" hidden>
       <div class="results-heading">
-        <div><p class="eyebrow">PARADA SELECCIONADA</p><h2 id="selectedStopName">—</h2><p id="selectedStopMeta" class="muted"></p></div>
+        <div>
+          <p class="eyebrow">PARADA SELECCIONADA</p>
+          <h2 id="selectedStopName">—</h2>
+          <p id="selectedStopMeta" class="muted"></p>
+        </div>
         <span class="live-pill"><i></i> EN DIRECTO</span>
       </div>
-      <div id="busList" class="bus-list"><div class="loading">Consultando estimaciones…</div></div>
-      <div class="refresh-row"><span id="lastUpdate">Esperando consulta…</span><button id="refreshBtn" class="text-btn">Actualizar ahora ↻</button></div>
+
+      <div id="busList" class="bus-list">
+        <div class="loading">Consultando estimaciones…</div>
+      </div>
+
+      <div class="refresh-row">
+        <span id="lastUpdate">Esperando consulta…</span>
+        <button id="refreshBtn" class="text-btn">Actualizar ahora ↻</button>
+      </div>
     </section>
 
     <section class="disclaimer">
@@ -49,6 +74,7 @@
       <p>El catálogo de paradas está en proceso de completar y verificar. Las líneas y recorridos que aún no tienen paradas cargadas se muestran como pendientes. Los tiempos dependen del servicio de estimaciones de TUA.</p>
     </section>
   </main>
+
   <footer>Proyecto independiente · Datos de estimación de TUA</footer>
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
   <script src="./app.js"></script>
